@@ -1,0 +1,10 @@
+{
+  "name": "platinum-forest-adventure",
+  "version": "1.1.0",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/*.test.cjs"
+  },
+  "engines": { "node": ">=22" }
+}
